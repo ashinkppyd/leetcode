@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ashinkppyd/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
