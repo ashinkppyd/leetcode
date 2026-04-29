@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/ashinkppyd/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ashinkppyd/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
