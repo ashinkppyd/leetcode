@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashinkppyd/leetcode/tree/master/0058-length-of-last-word) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
