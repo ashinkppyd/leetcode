@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
+| [2235-add-two-integers](https://github.com/ashinkppyd/leetcode/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
