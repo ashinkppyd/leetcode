@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashinkppyd/leetcode/tree/master/0058-length-of-last-word) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/ashinkppyd/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/ashinkppyd/leetcode/tree/master/0202-happy-number) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3794-reverse-string-prefix](https://github.com/ashinkppyd/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
