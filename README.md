@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/ashinkppyd/leetcode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/ashinkppyd/leetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/ashinkppyd/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ashinkppyd/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
