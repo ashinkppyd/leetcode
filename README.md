@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashinkppyd/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashinkppyd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ashinkppyd/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ashinkppyd/leetcode/tree/master/0709-to-lower-case) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/ashinkppyd/leetcode/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ashinkppyd/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ashinkppyd/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
