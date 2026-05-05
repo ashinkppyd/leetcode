@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashinkppyd/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashinkppyd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashinkppyd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ashinkppyd/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashinkppyd/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashinkppyd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/ashinkppyd/leetcode/tree/master/0709-to-lower-case) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ashinkppyd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashinkppyd/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ashinkppyd/leetcode/tree/master/2942-find-words-containing-character) |
