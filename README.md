@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashinkppyd/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashinkppyd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0504-base-7](https://github.com/ashinkppyd/leetcode/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/ashinkppyd/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashinkppyd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashinkppyd/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ashinkppyd/leetcode/tree/master/0258-add-digits) |
+| [0504-base-7](https://github.com/ashinkppyd/leetcode/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashinkppyd/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/ashinkppyd/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ashinkppyd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
