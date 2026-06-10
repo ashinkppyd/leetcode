@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ashinkppyd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ashinkppyd/leetcode/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashinkppyd/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashinkppyd/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ashinkppyd/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ashinkppyd/leetcode/tree/master/2942-find-words-containing-character) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ashinkppyd/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashinkppyd/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashinkppyd/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashinkppyd/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ashinkppyd/leetcode/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ashinkppyd/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/ashinkppyd/leetcode/tree/master/0202-happy-number) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ashinkppyd/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/ashinkppyd/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/ashinkppyd/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
