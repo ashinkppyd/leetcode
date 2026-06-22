@@ -108,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ashinkppyd/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/ashinkppyd/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/ashinkppyd/leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
