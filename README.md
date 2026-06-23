@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashinkppyd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/ashinkppyd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Number Theory
 |  |
@@ -111,9 +112,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashinkppyd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/ashinkppyd/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashinkppyd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/ashinkppyd/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ashinkppyd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
