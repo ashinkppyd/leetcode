@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashinkppyd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/ashinkppyd/leetcode/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/ashinkppyd/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/ashinkppyd/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashinkppyd/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashinkppyd/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
